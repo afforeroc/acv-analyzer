@@ -25,11 +25,11 @@ pip install -r requirements.txt
 4. Modify the *.env* file with your **Computer Vision** credentials
 
 ## Running the sample
-1. Run the sample using a local image: *atoms.png*
+1. Run the sample using a local image: *broadway.jpg*
 ```
 python acv-analyze-local.py
 ```
-2. Run the sample using [this](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Atomist_quote_from_Democritus.png/338px-Atomist_quote_from_Democritus.png) remote image
+2. Run the sample using [this](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Broadway_and_Times_Square_by_night.jpg/450px-Broadway_and_Times_Square_by_night.jpg) remote image
 ```
 python acv-analyze-remote.py
 ```
