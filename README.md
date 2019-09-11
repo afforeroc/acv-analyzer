@@ -35,7 +35,7 @@ python acv-analyze.py remote
 ```
 
 ## Images Sources
-* Local image: [Nuclear explosion on Nevada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Quote.JPG/320px-Quote.JPG)
+* Local image: [Nuclear explosion on Nevada](https://en.wikipedia.org/wiki/Nuclear_explosion#/media/File:Operation_Upshot-Knothole_-_Badger_001.jpg)
 * Remote image: [Broadway and Times Square by night](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Broadway_and_Times_Square_by_night.jpg/450px-Broadway_and_Times_Square_by_night.jpg)
 
 ## Documentation
