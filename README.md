@@ -27,11 +27,11 @@ pip install -r requirements.txt
 ## Running the sample
 1. Run the sample using a local image
 ```
-python acv-analyze.py local
+python acv-analyzer.py local
 ```
 2. Run the sample using a remote image
 ```
-python acv-analyze.py remote
+python acv-analyzer.py remote
 ```
 
 ## Images Sources
