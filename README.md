@@ -8,7 +8,7 @@ products:
 ---
 
 # Sample Solution that uses image analyzer of Azure Computer Vision
-This **Python** code is a quickstart that show how to use **analyze service** of **Computer Vision API** for local and remote images
+This **Python** code is a quickstart that show how to use **image analyzer** of **Computer Vision API** for local and remote images
 
 ## Prerequisites
 - [Python 3.7.4+](https://www.python.org/)
@@ -35,11 +35,10 @@ python acv-analyze.py remote
 ```
 
 ## Images Sources
-* [Local image: Nuclear explosion on Nevada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Quote.JPG/320px-Quote.JPG)
-* [Remote image: Broadway and Times Square by night](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Broadway_and_Times_Square_by_night.jpg/450px-Broadway_and_Times_Square_by_night.jpg)
+* Local image: [Nuclear explosion on Nevada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Quote.JPG/320px-Quote.JPG)
+* Remote image: [Broadway and Times Square by night](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Broadway_and_Times_Square_by_night.jpg/450px-Broadway_and_Times_Square_by_night.jpg)
 
 ## Documentation
 * [Azure Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
 * [Quickstart: Analyze a local image using the Computer Vision REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/python-disk)
 * [Quickstart: Analyze a remote image using the Computer Vision REST API and Python](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/python-analyze)
-
